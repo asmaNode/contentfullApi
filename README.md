@@ -1,8 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# PROJECT ContentfullAPI Consumer
+## Installation
 
-## Available Scripts
-
-In the project directory, you can run:
+To run this project, you must run:
+    $ npm i
+    $ npm start
 
 ### `npm start`
 
