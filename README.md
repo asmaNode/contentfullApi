@@ -2,9 +2,9 @@
 ## Installation
 
 To run this project, you must run:
-    $ npm i
-    $ npm start
 
+
+### `npm i`
 ### `npm start`
 
 Runs the app in the development mode.<br>
